@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, Java**
 
-- 📫 How to reach me **phuongdx08@gmail.com**
+- 📫 How to reach me **phuongdx128@gmail.com**
 
 - ⚡ Fun fact **I think I am funny, friendly.**
 
