@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, React**
 
-- 💬 Ask me about **HTML, CSS, Java**
+- 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **phuongdx128@gmail.com**
 
